@@ -32,10 +32,10 @@
   background: #264653;
 }
 
-.button--danger {
+/* .button--danger {
   background: #D62828;
   border-color: #D62828;
-}
+} */
 
 .button--danger:hover,
 .button--danger:active {
