@@ -10,6 +10,10 @@ const PLACES = [
     description: 'Considered the Garden of Patagonia.',
     imageUrl: 'https://bariloche.org/wp-content/uploads/2015/03/villa-la-angostura-726x400.jpg',
     address: 'Neuquén, Argentina',
+    location: {
+      lat: 36.0993857,
+      lng: -105.4902505
+    },
     creator: 'u1'
   },
   {
@@ -18,6 +22,10 @@ const PLACES = [
     description: 'It was a large desert close to the sea converted to a huge forest and a beach.',
     imageUrl: 'https://partidodepinamar.files.wordpress.com/2017/07/carilo-turismo-argentina.jpg',
     address: 'Pinamar, Argentina',
+    location: {
+      lat:-37.161503,
+      lng:-56.899307
+    },
     creator: 'u2'
   }
 
