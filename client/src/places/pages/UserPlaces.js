@@ -19,15 +19,27 @@ const PLACES = [
   {
     id: 'p2',
     title: 'Cariló',
-    description: 'It was a large desert close to the sea converted to a huge forest and a beach.',
+    description: 'It was a large desert close to the sea, converted to a huge forest and a beach.',
     imageUrl: 'https://partidodepinamar.files.wordpress.com/2017/07/carilo-turismo-argentina.jpg',
     address: 'Pinamar, Argentina',
     location: {
-      lat:-37.161503,
-      lng:-56.899307
+      lat: -37.161503,
+      lng: -56.899307
     },
     creator: 'u2'
-  }
+  },
+  {
+    id: 'p3',
+    title: 'El Chaltén',
+    description: 'The national capital of trekking.',
+    imageUrl: 'https://www.aylenaikehostel.com.ar/wp-content/uploads/2015/06/el-chalten.jpg',
+    address: 'Santa Cruz, Argentina',
+    location: {
+      lat: -49.32862,
+      lng: -72.93001
+    },
+    creator: 'u1'
+  },
 
 ]
 
